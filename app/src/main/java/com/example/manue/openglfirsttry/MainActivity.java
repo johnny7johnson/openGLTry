@@ -5,6 +5,10 @@ import android.opengl.GLSurfaceView;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+//Bsp für Pfeil: http://stackoverflow.com/questions/24061343/drawing-an-arrow-with-opengl-android
+//https://android.googlesource.com/platform/development/+/master/samples/ApiDemos/src/com/example/android/apis/os/RotationVectorDemo.java
+
+
 public class MainActivity extends Activity {
 
     private GLSurfaceView surface;
